@@ -2,7 +2,7 @@
     "name": "eletroinfo/primeiro-pacote",
     "description": "Este é um pacote de teste para implantação de projetos da Eletroinfo",
     "type": "library",
-    "license": "gnu",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Bruno Costa",
