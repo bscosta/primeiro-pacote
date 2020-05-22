@@ -1,0 +1,22 @@
+{
+    "name": "eletroinfo/primeiro-pacote",
+    "description": "Este é um pacote de teste para implantação de projetos da Eletroinfo",
+    "type": "library",
+    "license": "gnu",
+    "authors": [
+        {
+            "name": "Bruno Costa",
+            "email": "bruno.sc@outlook.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+
+}
